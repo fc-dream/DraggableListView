@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <item name="ma_button_overlay" type="id"/>
+    <item name="ma_placeholder_overlay" type="id"/>
+    
+</resources>
